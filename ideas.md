@@ -68,7 +68,7 @@ These are some of the things we’ve learned while working remotely:
 
 * **Decisions should be communicated via email.**  When a decision is made, communicate it clearly as a *decision* via email, with clear next steps.  Technical decisions have [their own documents](http://h.readthedocs.io/en/latest/arch/ "Hypothesis ADRs") ([ADRs](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions "About ADRs")). Do not assume Slack is a good record for decisions or a good way to assign responsibilities.  Work is assigned on cards on a sprint, github issues, in a face to face conversation, or via email. 
 
-* **Communicate your opinions.** When you send an email analyzing a problem or presenting different options, it is useful to clearly say which one do you prefer.  Don’t just set up a general debate and hope people pick it up.  If you say “My preference would be A”, people have a starting point to agree, disagree or ask questions. 
+* **Communicate your opinions.** When you send an email analyzing a problem or presenting different options, it is useful to clearly say which one you prefer.  Don’t just set up a general debate and hope people pick it up.  If you say “My preference would be A”, people have a starting point to agree, disagree or ask questions. 
 
 * **Feedback and suggestions.**  If you need people to weigh in or review your work before a specific time, make it explicit in your request and set a reasonable deadline. Also, be specific on the type of input you’re looking for.  If you’re giving feedback, make concrete suggestions. Understand that not all your requests or suggestions will be accepted.
 
@@ -117,7 +117,7 @@ These are some of the things we’ve learned while working remotely:
 <a name="health">Health, family and the real world</a>
 -----------------------------------------------------
 
-* **Define a routine.** My younger self would hate this suggestion, but it’s really useful.  At the start of the day write down what you expect to be doing at approximately what time.  Set some time to eat, stretch, go outside.  Plan for a time when you will stop working.  At the end of your day, make a summary of what you’ve accomplished, send it to #standup, and consider your workday finished.  If you’re still working late at night Lena will send you a creepy moon face emoji to remind you to go to log off.
+* **Define a routine.** My younger self would hate this suggestion, but it’s really useful.  At the start of the day write down what you expect to be doing at approximately what time.  Set some time to eat, stretch, go outside.  Plan for a time when you will stop working.  At the end of your day, make a summary of what you’ve accomplished, send it to #standup, and consider your workday finished.  If you’re still working late at night Lena will send you a creepy moon face emoji to remind you to log off.
 
 * **Take the weekends off.** This is very important. We don’t expect you to be available on the weekends and we’d rather you have a good story to tell on Monday.  
 
