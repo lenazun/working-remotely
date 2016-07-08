@@ -9,7 +9,10 @@ These are some of the things we’ve learned while working remotely:
 
 * [Communication](#communication)
 * [Schedule and time management](#schedule-time)
-
+* [Decision making](#decisions)
+* [Leadership and group dynamics](#leadership-group)
+* [Logistics](#logistics)
+* [Health, family and the real world](#health)
 
 
 <a name="communication">Communication</a> 
@@ -39,7 +42,7 @@ These are some of the things we’ve learned while working remotely:
 
 * **English: not everyone’s first language!**  Be compassionate and forgiving, but don’t be afraid to correct us nicely (this helps us, seriously).  We will do the same with your Hindi/Spanish/German/Irish/others. [Here’s a great guide](https://medium.com/@mollyclare/taming-the-steamroller-how-to-communicate-compassionately-with-non-native-english-speakers-d95d8d1845a0#.9qd1qihyj "Taming the steamroller") on how to do this.
 
-<a href="schedule-time">Schedule and time management</a>
+<a name="schedule-time">Schedule and time management</a>
 ----------------------------
 
 * **Individual time management.**  You’re responsible for your own time. This is extremely important.  You get to define when you’re available and when it's OK to contact you.  You have to accept/decline meeting invites, set up the appropriate reminders, set yourself away on the shared calendar, snooze your Slack notifications, and plan for your week/day.  You get to decide when to switch contexts. No one can do this for you.
@@ -55,3 +58,71 @@ These are some of the things we’ve learned while working remotely:
 * **Etiquette during meetings.**  Start max 5 minutes after the starting time, maybe other people need pings and reminders.  Remember Gunner’s rule:  In a group of n people, try to talk 1/nth of the time.  Keep the agenda in mind and mentally check what points have been covered, and what is yet to be discussed. Don’t be offended if someone else mutes your microphone during the meeting, you may not notice the background noise. Our meeting time band is very limited and chances are your participants have other calls on the hour: finish on time (or early!). If there was not enough time to finish a discussion, make sure you follow up.
 
 * **Block time on the calendar.**  We have an open vacation policy but we often have to remind people to block time off not only for vacation but also errands, travel time, mental health, reading and studying, feeding the baby, walking the dog, picking up the kids, taking your mom to an appointment. Any time you need without interruptions should be blocked, we don’t need to know why. 
+
+<a name="decisions">Decision making</a>
+--------------------------------------
+
+* **Communicate your ideas as proposals.**  In a collaborative team like ours, there’s a ton of ideas popping up.  We love discussing, playing with ideas and imagining the future.  It is helpful to say “we’re just playing with this idea” or “we’re thinking about doing it this way”.  Make sure you sound like you’re clearly making a proposal, and not a demand or a decision.  Do not expect these discussions to result in concrete actions, because...
+
+* **Decisions should be communicated via email.**  When a decision is made, communicate it clearly as a *decision* via email, with clear next steps.  Technical decisions have [their own documents](http://h.readthedocs.io/en/latest/arch/ "Hypothesis ADRs") ([ADRs](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions "About ADRs")). Do not assume Slack is a good record for decisions or a good way to assign responsibilities.  Work is assigned on cards on a sprint, github issues, in a face to face conversation, or via email. 
+
+* **Communicate your opinions.** When you send an email analyzing a problem or presenting different options, it is useful to clearly say which one do you prefer.  Don’t just set up a general debate and hope people pick it up.  If you say “My preference would be A”, people have a starting point to agree, disagree or ask questions. 
+
+* **Feedback and suggestions.**  If you need people to weigh in or review your work before a specific time, make it explicit in your request and set a reasonable deadline. Also, be specific on the type of input you’re looking for.  If you’re giving feedback, make concrete suggestions. Understand that not all your requests or suggestions will be accepted.
+
+* **Meeting notes and action items.**  Retrospectives and post-mortems must have notes and action items. Other meetings can have notes, preferably taken collectively in a google doc, not always by a woman, or the youngest person in the room, or always the same person. Action items should, preferably, have a responsible person who will follow up.
+
+<a name="leadership-group">Leadership and group dynamics</a>
+---------------------------
+
+* **Assume everybody is doing the best they can under the circumstances.** It’s hard to trust and rely on other people if we haven’t met them in person, or if our contact is limited. We have to make an effort to assume people are doing the best work they can do at the moment.  We have to believe that any mistake or omission is made by a person who is trying their best, dealing with a set of variables we may not understand, and act accordingly.
+
+* **Make room for the quiet voices.** Some people need more time to think and process before speaking, or are overwhelmed in large conference calls and in-person meetings. Some of us need to double check our words (if English is not our first language, or we’re working outside our area of expertise) . We have to make an effort to ask directly what the quiet people think, give them plenty of background material before a meeting, and allow space to submit their thoughts in writing. Make sure others don’t interrupt or shut down the quiet voices and acknowledge their contributions.
+
+* **Learn to facilitate discussions.** If you’re a leader, you will be playing facilitator more than a participant in most discussions. Learn how to balance different points of view, keep track of time, keep discussions on point, make sure there’s notes.  Even if it’s not your meeting, sometimes you have to step into the role, so be prepared.
+
+* **Traffic control for topics and discussions.**  If a discussion becomes too large or goes off topic, find a way to split it and send it to the appropriate channel. “This could be better discussed by email” or “let’s take this to a slack group” or “let’s have another call for this other topic” are good things to say.  Intervene when discussions are not going anywhere or becoming dialogs.  Don’t let people get into a pointless argument, it’s usually easy to see (from the outside!) when a discussion is not going to end well.
+
+* **Apologize explicitly when a mistake is made.**  Over-communicate around mistakes and make sure affected voices are heard.  Have a post-mortem or a learning session, copy the team on the results and action items.  Get in the practice of acknowledging conflict or misunderstanding: when you are all remote, there is no way to know who’s mad at whom and who solved their issues. This can be toxic in the long run, it’s better to speak frankly about what’s going on.
+
+* **Recognize good ideas and actions.**  Give credit for good ideas.  Celebrate team and individual accomplishments.  Have a symbolic token of appreciation (we have a couple of animated gifs for special occasions). This is much easier to do in person, but we have to be even more intentional when we’re all in different places. 
+
+* **Intentional 1:1s.** Most of us have weekly 1:1s with our manager. You can schedule a 1:1 with anyone on the team at any time, just ask!  These 1:1s are much more productive when they are structured and have a theme. For example, “this week we’ll talk about how we’re doing on quarterly goals” or “this week we’ll give each other feedback”. Some of us keep a running document where we write down notes, so we can review what we talked about last week.
+
+* **Giving each other feedback.**  If you’re comfortable with giving direct feedback to someone, phrase it as “things you’re doing well and hope you continue doing” or “things you could be doing better”. We do a round of peer and manager feedback twice a year, but "in the moment" feedback is even better. When you receive feedback, listen and be appreciative. Keep in mind that the good things you’re doing outweigh the things to improve. 
+
+* **Your words matter more than you realize.** In a small team, what you say matters to everyone on the team. Your words will be remembered and interpreted, as well as your tone and your mood. This is especially true if you’re in a leadership position.  Working remotely makes this even trickier, because people will have few opportunities to interact with you. 
+
+<a name="logistics">Logistics</a>
+--------------------------------
+
+* **The world is loud.** You will need a quiet place to work, at home or elsewhere. Coffee shops are not the best.  Libraries are OK, but you need a private room to make calls. A good pair of headphones, a functioning webcam and a good audio setup are essential.
+
+* **Light is important.** Daylight will make you happier, and it will make for better conference calls. Exposure to light during the winter is even more important. 
+
+* **Traveling and working.** Think in advance of your setup, your availability, your internet connection etc.  Let people know you’ll be traveling and adjust your schedule.
+
+* **Are you OK?**  Sometimes we’re caught in the middle of emergencies and chaotic situations. In these cases, your only responsibility is to be safe. If it’s at all possible, send us a signal saying you’re OK.
+
+* **Flaky internet connections.** They happen, and they will frustrate you to no end. Disconnect your webcam and close other processes in your computer that may be using your bandwidth at the time of a conference call.  If you attempt to join a meeting and it fails a couple of times, just apologize, reschedule or skip.  Have a phone number as a backup plan.
+
+* **Coworking spaces.** You are welcome to find a coworking space and discuss with admin the details of pricing and reimbursement. Many co-working spaces only have an open floor plan, make sure you’ll have a quiet place to make video calls.
+
+* **Find a good ergo setup.** Notice if you need a special keyboard, a larger monitor, a better chair.  All these things will make your life better in the long run. Make sure you make arrangements to adapt when traveling.
+
+* **Don’t forget to eat, sleep, talk to people IRL.**  Work can be too interesting, too consuming, and you may be tempted to skip meals or go to bed late. Please don’t! You’ll be more pleasant to work with if you’ve eaten, had tea/coffee/etc, have talked to other people who have nothing to do with work, and have slept and dreamt happy internet dreams.
+
+<a name="health">Health, family and the real world</a>
+-----------------------------------------------------
+
+* **Define a routine.** My younger self would hate this suggestion, but it’s really useful.  At the start of the day write down what you expect to be doing at approximately what time.  Set some time to eat, stretch, go outside.  Plan for a time when you will stop working.  At the end of your day, make a summary of what you’ve accomplished, send it to #standup, and consider your workday finished.  If you’re still working late at night Lena will send you a creepy moon face emoji to remind you to go to log off.
+
+* **Take the weekends off.**  This is very important. We don’t expect you to be available on the weekends and we’d rather you have a good story to tell on Monday.  
+
+* **You can share your personal life with us, but you don’t have to.**  Some of us like talking about our families and our lives outside work. Don’t feel pressured to share anything personal, we’ll like you just as much. 
+
+* **Caring for yourself and others.**  Do not apologize for prioritizing the care of your family or your own well being. Others won’t see you every day and we’ll rarely have context for what you’re going through. We hope you feel comfortable to have a conversation with your manager when you’re struggling with a personal issue. If you don’t, let’s fix that. If you’re sick, Dan will sometimes send you soup!
+
+* **Avoid burn-out.**  [Learn to recognize burn-out](http://www.catehuston.com/blog/2014/04/23/the-burnout-equation/ "The burnout equation") and how to avoid it.  We want you to be a happy, productive person for a long time.  If you recognize the signs of burn-out on a teammate, reach out and ask how they’re doing. 
+
+
