@@ -5,6 +5,8 @@ Working remotely sounds *great*.  We think we’ll save ourselves the commute an
 
 We have no “central” office at [Hypothesis](http://hypothes.is/ "Hypothes.is") and we currently work from 4 different countries in different time zones.  We have learned that communication, decision making, social interaction and leadership need slightly different strategies.  We still have much to improve, but we’re working on it every day.
 
+Feel free to share this content under [a CC license](https://creativecommons.org/licenses/by-sa/4.0/ "CC-BY-SA"). **Send a pull request with your edits and ideas!**
+
 These are some of the things we’ve learned while working remotely:
 
 * [Communication](#communication)
