@@ -1,7 +1,7 @@
 El trabajo remoto
 ===================================
 
-Trabajar de forma remota suena genial. Pensamos que vamos a ahorrarnos el viaje diario hacia el trabajo y que tendremos la flexibilidad de combinar nuestra vida laboral con la del hogar. En la realidad, el trabajo toma una forma diferente cuando no hay una oficina, y todos estamos en diferentes ambientes tratand de conectarnos con otros seres humanos. 
+Trabajar de forma remota suena genial. Pensamos que vamos a ahorrarnos el viaje diario hacia el trabajo y que tendremos la flexibilidad de combinar nuestra vida laboral con la del hogar. En la realidad, el trabajo toma una forma diferente cuando no hay una oficina, y todos estamos en diferentes ambientes tratando de conectarnos con otros seres humanos. 
 
 En [Hypothesis](http://hypothes.is/ "Hypothes.is") no tenemos oficinas centrales, y trabajamos desde cuatro países diferentes en distintas zonas horarias. Hemos aprendido que la comunicación, la toma de decisiones, la interacción social y el liderazgo necesitan estrategias un poco diferentes. Aún tenemos mucho por mejorar, pero estamos trabajando en ello todos los días.
 
@@ -91,7 +91,7 @@ Estas son algunas cosas que hemos aprendido al trabajar de forma remota:
 
 * **Reuniones uno a uno con propósito.** La mayoría de nosotros tiene una reunión 1:1 con la persona que nos supervisa directamente. Puedes agendar un 1:1 con cualquier persona del equipo en cualquier momento, sólo pregunta! Estas reuniones son más productivas cuando son estructuradas o tienen un tema. Por ejempo: "esta semana hablaremos de nuestras metas para el trimestre" o "la próxima semana hablaremos de ideas para mejorar la productividad". Algunos de nosotros tenemos un documento donde escribimos notas, para poder revisarlas después y saber de lo que hablamos la semana pasada. 
 
-* **Retroalimentación.**  Si te sientes cómodo dándole consejos para mejorar a otra persona, debes enmarcarlo como "cosas que estás haciendo bien y que esperamos que continúes haciendo" o "cosas en las que podrías mejorar". Nosotros tenemos una ronda de retroalimentación entre los pares dos veces al año, pero los consejos "en el momento" son aún mejores.  Cuando recibas este tipo de información, escucha y aprecia el esfuerzo. Ten en mente que las cosas buenas que estás haciendo son muchas más que las cosas por mejorar. 
+* **"Feedback".**  Si te sientes cómodo dándole consejos para mejorar a otra persona, debes enmarcarlo como "cosas que estás haciendo bien y que esperamos que continúes haciendo" o "cosas en las que podrías mejorar". Nosotros tenemos una ronda de "feedback" entre los pares dos veces al año, pero los consejos "en el momento" son aún mejores.  Cuando recibas este tipo de información, escucha y aprecia el esfuerzo. Ten en mente que las cosas buenas que estás haciendo son muchas más que las cosas por mejorar. 
 
 * **Tus palabras importan más de lo que te imaginas.** En un equipo pequeño, las cosas que dices tienen importancia para todos en el equipo.  Tus palabras serán recordadas e interpretadas, así como tu tono y tu humor. Esto es especialmente cierto si estás en una posición de liderazgo. Trabajar de forma remota hace esto aún más complicado, porque los demás tendrán menos oportunidades de interactuar contigo. 
 
@@ -117,14 +117,12 @@ Estas son algunas cosas que hemos aprendido al trabajar de forma remota:
 <a name="health">Salud, familia y el mundo real</a>
 -----------------------------------------------------
 
-* **Define una rutina.** My younger self would hate this suggestion, but it’s really useful.  At the start of the day write down what you expect to be doing at approximately what time.  Set some time to eat, stretch, go outside.  Plan for a time when you will stop working.  At the end of your day, make a summary of what you’ve accomplished, send it to #standup, and consider your workday finished.  If you’re still working late at night Lena will send you a creepy moon face emoji to remind you to go to log off.
+* **Define una rutina.** Cuando era más joven habría odiado esta sugerencia, pero es verdaderamente útil. Al comenzar el día, escribe una lista de lo que esperas hacer aproximadamente a qué hora. Incluye un momento para comer, estirarte o ir afuera. Planea una hora en la que dejarás de trabajar. Al final del día, haz un resumen de lo que has logrado durante el día y envíalo al canal de #standup, y da tu día de trabajo por terminado. Si aún estás trabajando tarde en la noche, alguien te enviará un emoji con la cara de la luna, para recordarte que te vayas a dormir. 
 
-* **Take the weekends off.** This is very important. We don’t expect you to be available on the weekends and we’d rather you have a good story to tell on Monday.
+* **No trabajes los fines de semana.** Esto es muy importante. No esperamos que estés disponible los fines de semana, y preferimos que regreses el Lunes con una buena historia para compartir.
 
-* **You can share your personal life with us, but you don’t have to.**  Some of us like talking about our families and our lives outside work. Don’t feel pressured to share anything personal, we’ll like you just as much. 
+* **Compartir tu vida personal es opcional.** A algunos nos gusta hablar sobre nuestra vida fuera del trabajo y nuestra familia y aficiones. No te sientas presionado por compartir nada personal, esto no afectará qué tan bien nos caes.
 
-* **Caring for yourself and others.**  Do not apologize for prioritizing the care of your family or your own well being. Others won’t see you every day and we’ll rarely have context for what you’re going through. We hope you feel comfortable to have a conversation with your manager when you’re struggling with a personal issue. If you don’t, let’s fix that. If you’re sick, Dan will sometimes send you soup!
+* **Cuidado propio y de los demás.**  No te disculpes por darle prioridad al cuidado de tu familia o tu bienestar personal. Los demás no te verán todos los días y muy pocas veces tendremos contexto para saber por lo que estás pasando. Esperamos que te sientas en confianza para hablar con tu jefe si estás enfrentando alguna situación personal. Si no es así, ¡tenemos que arreglarlo!. Si te sientes mal, alguien podría mandarte una orden de sopa. 
 
-* **Avoid burn-out.**  [Learn to recognize burn-out](http://www.catehuston.com/blog/2014/04/23/the-burnout-equation/ "The burnout equation") and how to avoid it.  We want you to be a happy, productive person for a long time.  If you recognize the signs of burn-out on a teammate, reach out and ask how they’re doing. 
-
-
+* **No te quemes.**  [Aprende a reconocer el "burn-out"](http://www.catehuston.com/blog/2014/04/23/the-burnout-equation/ "The burnout equation") y cómo evitarlo.  Queremos que seas una persona feliz y productiva por mucho tiempo. Si reconoces el "burn out" en otra persona en el equipo, pregúntales cómo les va y ofrece tu ayuda. 
