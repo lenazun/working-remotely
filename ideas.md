@@ -34,7 +34,7 @@ Before you start working remotely at a new organization, you should explore how 
 
 * **What are the travel expectations for remote workers?** Are you expected to travel to headquarters or other offices or customers, and if so, how often and for how long? What are the travel policies and allowances for remote workers? How do these travel expectations compare to those of non-remote colleagues?
 
-* **What are the career progression possibilities for remote workers?** As a remote worker in a partly non-remote organization, could you move into more senior positions over time, such as team leader, middle manager, or upper manager? Could you move into other teams in the organization, and if so, which ones? Are there some roles that are closed to remote workers? Match these answers to your own career goals.
+* **What are the career progression possibilities for remote workers?** As a remote worker in a partly non-remote organization, could you move into more senior positions over time, such as team leader, middle manager, or executive? Could you move into other teams in the organization, and if so, which ones? Are there some roles that are closed to remote workers? Match these answers to your own career goals.
 
 * **Is there support for first-time remote workers?** If you haven't worked remotely before, will the organization support you in learning how to work remotely, and if so, how?
 
