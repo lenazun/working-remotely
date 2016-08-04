@@ -9,6 +9,7 @@ Feel free to share this content under [a CC license](https://creativecommons.org
 
 These are some of the things we’ve learned while working remotely:
 
+* [Before you start](#hiring)
 * [Communication](#communication)
 * [Schedule and time management](#schedule-time)
 * [Decision making](#decisions)
