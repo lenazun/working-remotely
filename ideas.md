@@ -9,7 +9,7 @@ Feel free to share this content under [a CC license](https://creativecommons.org
 
 These are some of the things we’ve learned while working remotely:
 
-* [Before you start](#hiring)
+* [Before you get hired (some questions to ask)](#hiring)
 * [Communication](#communication)
 * [Schedule and time management](#schedule-time)
 * [Decision making](#decisions)
@@ -17,26 +17,29 @@ These are some of the things we’ve learned while working remotely:
 * [Logistics](#logistics)
 * [Health, family and the real world](#health)
 
-<a name="hiring">Before you start</a>
+<a name="hiring">Before you get hired (some questions to ask)</a>
 -------------
 
-Before you start working remotely at a new organization, you should explore how they structure remote working and if there are any expectations mismatches between you and the organization. A particular remote job may or may not be a match for a particular remote worker.
+Before you start working remotely at a new organization, you should explore how they structure remote working and if there are any expectations mismatches between you and the organization. A particular remote job may or may not be a match for you. This should be talked about at the time of the interview, ask as many questions as you can.
 
-* **How long have there been remote workers for?** Is the organization new to having remote workers or has it had remote workers for a long time and bedded down a remote working style?
+* **How long have there been remote workers for?** Is the organization new to having remote workers or has it had remote workers for a long time and bedded down a remote working style?  
 
-* **What is the remote working culture like?** Is most collaboration over email, text chat, phone, video conf, or some other means? Are there watercooler-equivalents like social IRC channels or video chats? How active are they? Are remote workers mainly working from home or from co-working spaces? Are there occasional team gatherings for remote workers to meet colleagues in person and are they optional or compulsory?
+* **What is the remote working culture like?** Is most collaboration over email, text chat, phone, video conf, or some other means? Are there watercooler-equivalents like social IRC channels or video chats? How active are they? Are remote workers mainly working from home or from co-working spaces? Are there occasional team gatherings to meet colleagues in person, and are they optional or compulsory? If the organization has a very strong culture of in-person meetings, and decisions are made in social gatherings, it will be hard to integrate as a remote worker.
 
-* **How many remote workers are there at the organization?** What percentage of your team are working remotely, what percentage of teams you will work closely with are working remotely, and what percentage of employees overall are working remotely? Working as one of very few remote workers for an organization where most of your colleagues are in an office together is different from a mostly or entirely remote-working organization.
+* **How many remote workers are there at the organization?** What percentage of your team are working remotely, what percentage of teams you will work closely with are working remotely, and what percentage of employees overall are working remotely? Working as one of very few remote workers for an organization where most of your colleagues are in an office is different from a mostly or fully remote organization.
 
-* **Are the remote workers spread across multiple timezones?** If so, are your team and closest collagues in your timezone or another one? Are you expected to adapt your working hours to overlap better with your colleagues? How are meetings and other commitments scheduled across timezones? Do they rotate through timezones or are they always held in a certain timezone? Are you ever expected to attend meetings well outside your working hours, and if so, how often is this expected and do your colleagues in other timezones face the same expectations?
+* **Are the remote workers spread across multiple timezones?** If so, are your team and closest collagues in your timezone or another one? Are you expected to adapt your working hours to overlap better with your colleagues? How are meetings and other commitments scheduled across timezones? You will want to know what the expectations are in terms of their working hours and availability. 
 
 * **What are the benefits for remote workers?** Will the organization reimburse any of your remote working expenses, such as membership of a co-working space, home office furniture, or your home Internet connection costs? If you're working in a different country from most of your colleagues, will you get equivalent benefits to your colleagues (eg, health insurance coverage)?
 
-* **What are the travel expectations for remote workers?** Are you expected to travel to headquarters or other offices or customers, and if so, how often and for how long? What are the travel policies and allowances for remote workers? How do these travel expectations compare to those of non-remote colleagues?
+* **What are the travel expectations for remote workers?** Are you expected to travel to headquarters or other offices or customers, or to team meetings, and if so, how often and for how long? What are the travel policies and allowances for remote workers? How do these travel expectations compare to those of non-remote colleagues?
 
 * **What are the career progression possibilities for remote workers?** As a remote worker in a partly non-remote organization, could you move into more senior positions over time, such as team leader, middle manager, or executive? Could you move into other teams in the organization, and if so, which ones? Are there some roles that are closed to remote workers? Match these answers to your own career goals.
 
 * **Is there support for first-time remote workers?** If you haven't worked remotely before, will the organization support you in learning how to work remotely, and if so, how?
+
+* **How do remote workers get coaching, participate in pairing and learning opportunities?** If you're at the start of your career, remote work may be particularly difficult. You may need a lot of support and guidance from more experienced team members, and this is not easy to do remotely.  If you're a bit more advanced, you still should ask how these learning opportunities and collaboration spaces are happening for remote workers. 
+
 
 <a name="communication">Communication</a> 
 -------------
