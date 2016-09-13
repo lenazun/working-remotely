@@ -141,7 +141,7 @@ Before you start working remotely at a new organization, you should explore how 
 <a name="health">Health, family and the real world</a>
 -----------------------------------------------------
 
-* **Define a routine.** My younger self would hate this suggestion, but it’s really useful.  At the start of the day write down what you expect to be doing at approximately what time.  Set some time to eat, stretch, go outside.  Plan for a time when you will stop working.  At the end of your day, make a summary of what you’ve accomplished, send it to #standup, and consider your workday finished.  If you’re still working late at night Lena will send you a creepy moon face emoji to remind you to log off.
+* **Define a routine.** My younger self would hate this suggestion, but it’s really useful.  At the start of the day write down what you expect to be doing at approximately what time.  Set some time to eat, stretch, go outside.  Plan for a time when you will stop working.  At the end of your day, make a summary of what you’ve accomplished, send it to #standup, and consider your workday finished.  If you’re still working late at night, Lena will send you a creepy moon face emoji to remind you to log off.
 
 * **Take the weekends off.** This is very important. We don’t expect you to be available on the weekends and we’d rather you have a good story to tell on Monday.  
 
