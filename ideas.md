@@ -48,7 +48,7 @@ Before you start working remotely at a new organization, you should explore how 
 
 * **Rules of polite communication are not the same.** Sometimes you will have to interrupt people, hijack a meeting, reschedule at the last minute, ask people to repeat themselves etc.  You still get to be nice to people, say thank you, please and sorry, say “good morning” and “have a good evening”.
 
-* **Interruptions are OK.** Don’t be afraid to ask people if they have a minute. it’s on the recipient to manage their time and availability (i.e turning off their slack notifications, or saying “sorry I can’t right now, I’m on a call”).  Don’t guess on other people’s availability, just ask.
+* **Interruptions are OK.** Don’t be afraid to ask people if they have a minute. It’s on the recipient to manage their time and availability (i.e turning off their slack notifications, or saying “sorry I can’t right now, I’m on a call”).  Don’t guess on other people’s availability, just ask.
 
 * **Be direct.**  Don’t “ask to ask” or bury your request in a full paragraph.  Lead with your request or question, and provide a format for the response you want (yes/no, comments on a document, +1s or -1s, etc).  Keep your sentences short, you don’t need to heavily justify everything you say, we believe you!
 
