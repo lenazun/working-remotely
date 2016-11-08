@@ -108,11 +108,11 @@ Estas son algunas cosas que hemos aprendido al trabajar de forma remota:
 
 * **Malas conexiones a Internet.** Esto pasa todo el tiempo y te frustrará inmensamente.  Desconecta tu webcam y cierra otros procesos en tu computador que puedan estar usando tu ancho de banda en el momento de una videollamada. Si tratas de unirte a una llamada un par de veces y fallas, es mejor disculparte, volver a agendar la llamada o simplemente no asistir. Es bueno tener un número telefónico como plan B. 
 
-* **Espacio sde co-trabajo.** Si lo prefieres, puedes identificar un espacio de co-trabajo y discutir con la administración los detalles del precio y el reembolso. Muchos lugares tienen solamente grandes mesas o espacios abiertos, asegúrate de que tengas un lugar silencioso para hacer videollamadas. 
+* **Espacios de co-trabajo.** Si lo prefieres, puedes identificar un espacio de co-trabajo y discutir con la administración los detalles del precio y el reembolso. Muchos lugares tienen solamente grandes mesas o espacios abiertos, asegúrate de que tengas un lugar silencioso para hacer videollamadas. 
 
 * **Encuentra tu configuración ergonómica.** Nota si necesitas un teclado especial, un monitor más grande o una mejor silla.  Todas estas cosas mejorarán tu vida a largo plazo. Asegúrate de que tengas un buen plan de reemplazo cuando estés viajando. 
 
-* **No olvides comer, dormir, hablar con otras personas fuera de línea.**  El trabajo puede ser demasiado intersante, absorbente, y puedes verte tentado a dejar de comer o irte a dormir tarde. Por favor no lo hagas. Será más placentero trabajar contigo si has comido, si has tomado el té/café/mate etc, si has conversado con otras personas que no tienen nada que ver con el trabajo, y si has dormido y soñado sueños felices de Internet.
+* **No olvides comer, dormir, hablar con otras personas fuera de línea.**  El trabajo puede ser demasiado interesante, absorbente, y puedes verte tentado a dejar de comer o irte a dormir tarde. Por favor no lo hagas. Será más placentero trabajar contigo si has comido, si has tomado el té/café/mate etc, si has conversado con otras personas que no tienen nada que ver con el trabajo, y si has dormido y soñado sueños felices de Internet.
 
 <a name="health">Salud, familia y el mundo real</a>
 -----------------------------------------------------
@@ -125,4 +125,4 @@ Estas son algunas cosas que hemos aprendido al trabajar de forma remota:
 
 * **Cuidado propio y de los demás.**  No te disculpes por darle prioridad al cuidado de tu familia o tu bienestar personal. Los demás no te verán todos los días y muy pocas veces tendremos contexto para saber por lo que estás pasando. Esperamos que te sientas en confianza para hablar con tu jefe si estás enfrentando alguna situación personal. Si no es así, ¡tenemos que arreglarlo!. Si te sientes mal, alguien podría mandarte una orden de sopa. 
 
-* **No te quemes.**  [Aprende a reconocer el "burn-out"](http://www.catehuston.com/blog/2014/04/23/the-burnout-equation/ "The burnout equation") y cómo evitarlo.  Queremos que seas una persona feliz y productiva por mucho tiempo. Si reconoces el "burn out" en otra persona en el equipo, pregúntales cómo les va y ofrece tu ayuda. 
+* **No te quemes.**  [Aprende a reconocer el "burn-out"](http://www.catehuston.com/blog/2014/04/23/the-burnout-equation/ "The burnout equation") y cómo evitarlo. Queremos que seas una persona feliz y productiva por mucho tiempo. Si reconoces el "burn out" en otra persona en el equipo, pregúntales cómo les va y ofrece tu ayuda. 
