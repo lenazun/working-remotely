@@ -28,7 +28,7 @@ Before you start working remotely at a new organization, you should explore how 
 
 * **How many remote workers are there at the organization?** What percentage of your team are working remotely, what percentage of teams you will work closely with are working remotely, and what percentage of employees overall are working remotely? Working as one of very few remote workers for an organization where most of your colleagues are in an office is different from a mostly or fully remote organization.
 
-* **Are the remote workers spread across multiple timezones?** If so, are your team and closest collagues in your timezone or another one? Are you expected to adapt your working hours to overlap better with your colleagues? How are meetings and other commitments scheduled across timezones? You will want to know what the expectations are in terms of their working hours and availability. 
+* **Are the remote workers spread across multiple timezones?** If so, are your team and closest colleagues in your timezone or another one? Are you expected to adapt your working hours to overlap better with your colleagues? How are meetings and other commitments scheduled across timezones? You will want to know what the expectations are in terms of their working hours and availability. 
 
 * **What are the benefits for remote workers?** Will the organization reimburse any of your remote working expenses, such as membership of a co-working space, home office furniture, or your home Internet connection costs? If you're working in a different country from most of your colleagues, will you get equivalent benefits to your colleagues (eg, health insurance coverage)?
 
